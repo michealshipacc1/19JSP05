@@ -16,10 +16,10 @@ public class HashSetExample1 {
         // Creating hashset
         Set<String> set = new HashSet<String>();
         // Add objects to hashset
-        set.add("Java");
+        set.add("Java222");
         set.add("C++");
         set.add("PHP");
-        set.add("Java");
+        set.add("Java11");
         // Show set through Iterator
         Iterator<String> itr = set.iterator();
         while (itr.hasNext()) {
